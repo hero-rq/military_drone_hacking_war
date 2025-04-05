@@ -1,4 +1,4 @@
-# military_drone_hacking_war
+# military_drone_hacking_war (this is just the simple case study)
 
 # Military Drone Hacking Incidents (2022–2025): Case Study and Cybersecurity Countermeasures
 
